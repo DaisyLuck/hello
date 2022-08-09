@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luckydaisy.ongridea.com/</id>
+    <title>彼刻的温柔</title>
+    <updated>2022-08-09T01:49:51.944Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://luckydaisy.ongridea.com/"/>
+    <link rel="self" href="https://luckydaisy.ongridea.com/atom.xml"/>
+    <subtitle>Hello，你将看到来自Daisy的思考。</subtitle>
+    <rights>All rights reserved 2022, 彼刻的温柔</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎么能够将你比作夏天？（测试）]]></title>
+        <id>https://https://luckydaisy.ongridea.com//wo-zen-me-neng-gou-jiang-ni-bi-zuo-xia-tian</id>
+        <link href="https://https://luckydaisy.ongridea.com//wo-zen-me-neng-gou-jiang-ni-bi-zuo-xia-tian"/>
+        <updated>2022-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[分享一首我很喜欢的诗：
+QuatrainⅠ：
+A：Shall I compare thee to a summer's day?
+B：Thouartmore lovely and more temperate.
+A：Rough winds ...]]></summary>
+        <content type="html"><![CDATA[<p>分享一首我很喜欢的诗：</p>
+<p>QuatrainⅠ：<br>
+A：Shall I compare thee to a summer's day?<br>
+B：Thouartmore lovely and more temperate.<br>
+A：Rough winds do shake the darling buds of May,<br>
+B：And summer's lease hath all too short a date.<br>
+QuatrainⅡ：<br>
+C：Sometime too hot the eye of heaven shines,<br>
+D：And often is his gold complexion dimm'd;<br>
+C：And every fair from fair sometime declines,<br>
+D：By chance or nature's changing course untrimmed.<br>
+Quatrain Ⅲ：<br>
+E：But thy eternal summer shall not fade,<br>
+F：Nor lose possession of that fair thou ow'st;<br>
+E：Nor shall Death brag thou wander'st in his shade,<br>
+F：When in eternal lines to time thou grow'st.<br>
+Couplet：<br>
+G：So long as men can breathe, or eyes can see,<br>
+G：So long lives this, and this gives life to thee.</p>
+<p>我怎么能够将你比作夏天？<br>
+你比夏天更美丽温婉。<br>
+狂风将五月的蓓蕾凋残，<br>
+夏日的勾留何其短暂。<br>
+休恋那烈日当空，<br>
+转眼会云雾迷蒙；<br>
+休叹那百花凋零，<br>
+摧折于无常天命；<br>
+唯有你永恒的夏日长新，<br>
+你的美貌亦毫发无损。<br>
+死神也无缘将你幽禁，<br>
+你在我永恒的诗中长存。<br>
+只要世间尚有人吟诵我的诗篇，<br>
+这诗就将不朽，永葆你的芳颜。</p>
+]]></content>
+    </entry>
+</feed>
